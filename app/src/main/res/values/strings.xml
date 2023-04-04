@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InstaAndroid</string>
+    <string name="Button">Check</string>
+    <string name="txt">Output</string>
+    <string name="input">Enter Username</string>
+    <string name="insta">InstaFakeDetect</string>
+    <string name="and">Android Client</string>
+    <string name="git">github links</string>
+    <string name="uptime">UPTIME: 8am-8pm (IST)</string>
+    <string name="desc">Checks if a Public Instagram Account is Fake or Not Using Machine Learning</string>
+    <string name="todo">TODO</string>
+    <string name="check">Status</string>
+    <string name="enter_username">Enter Username</string>
+</resources>
